@@ -9,6 +9,7 @@ body {
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin-left: 150px;
 }
 
 header {
@@ -27,16 +28,14 @@ section {
 #nav {
     float: left;
     width: 100%;
-    background: #ebebeb;
     height: 60px;
     padding-top: 20px;
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 10px;
 }
 
 #aside {
     float: left;
-    background: #ebebeb;
     width: 455px;
     margin-left: 10px;
     margin-bottom: 10px;
